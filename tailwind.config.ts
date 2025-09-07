@@ -61,7 +61,12 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
-				}
+				},
+				'pyblox-blue': '#6366F1',
+				'pyblox-purple': '#10B981',
+				'pyblox-gold': '#F59E0B',
+				'pyblox-dark': '#1F2937',
+				'pyblox-gray': '#374151'
 			},
 			borderRadius: {
 				lg: 'var(--radius)',
